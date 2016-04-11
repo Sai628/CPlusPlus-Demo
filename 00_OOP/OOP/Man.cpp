@@ -19,3 +19,5 @@ void Man::sayHello()
 {
     printf("Man say: Hello CPP\n");
 }
+
+

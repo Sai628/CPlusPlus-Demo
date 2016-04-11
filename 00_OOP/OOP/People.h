@@ -6,8 +6,7 @@
 //  Copyright (c) 2015 Sai. All rights reserved.
 //
 
-#ifndef __OOP__People__
-#define __OOP__People__
+#pragma once
 
 #include <stdio.h>
 
@@ -26,4 +25,3 @@ public:
 };
 
 
-#endif /* defined(__OOP__People__) */

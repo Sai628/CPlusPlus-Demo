@@ -15,6 +15,7 @@ People::People()
     this->sex = 1;
 }
 
+
 People::People(int age, int sex)
 {
     this->age = age;
@@ -38,3 +39,5 @@ void People::sayHello()
 {
     printf("People say: Hello CPP\n");
 }
+
+
